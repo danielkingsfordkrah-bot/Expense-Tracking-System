@@ -1,0 +1,12 @@
+*.class
+
+bin/
+out/
+build/
+target/
+
+.vscode/
+.idea/
+
+oracleJdk-21/
+jdk/
